@@ -7,3 +7,4 @@ I'm a 4th year computer science student at Western University.
 🏦 I previously interned at the Royal Bank of Canada in their Amplify Innovation Program
 
 
+![](https://komarev.com/ghpvc/?username=tbuwadi)
